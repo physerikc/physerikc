@@ -6,9 +6,9 @@ Pesquisa: Microlentes gravitacionais.</p>
 
 
  <div>
-  <a href="https://github.com/cadudevemdobro">
+  <a href="https://github.com/physerikc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=physerikc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadudevemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physerikc&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
