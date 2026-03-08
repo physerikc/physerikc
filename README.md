@@ -40,19 +40,13 @@ I previously worked on gravitational microlensing using Python, focusing on the 
   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=physerikc)
 </div>
 -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- Div esquerda: badges -->
-  <div>
-    <a href="mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-7095E3?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/eriiikc7" target="_blank"><img src="https://img.shields.io/badge/-Instag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5584991442071" target="_blank"><img src="https://img.shields.io/badge/-Wpp-2E7D32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </div>
-
-  <!-- Div direita: contador -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=physerikc" alt="Profile view counter on GitHub">
-  </div>
-</div>
+<p align="left">
+  <a href="mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-7095E3?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://instagram.com/eriiikc7" target="_blank"><img src="https://img.shields.io/badge/-Instag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
+  <a href="https://wa.me/5584991442071" target="_blank"><img src="https://img.shields.io/badge/-Wpp-2E7D32?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/master/img/transparent.png" width="600" height="0">
+  <img src="https://komarev.com/ghpvc/?username=physerikc&label=Profile%20views&color=0e75b6&style=flat-square" alt="physerikc">
+</p>
 
 <!--
 <div style="text-align: center;" align="center">
