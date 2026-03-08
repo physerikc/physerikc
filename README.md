@@ -1,6 +1,6 @@
 ## Hi there. I'm Erick Sanches, Physics Master's Student
 
-I previously worked on gravitational microlensing using Python, focusing on the computational modeling and analysis of lensing events. Currently, my research is focused on gravitational waves, with particular interest in the characterization and analysis of glitches in detector data. My work involves data analysis, numerical methods, and scientific computing applied to astrophysical signals.
+I previously worked on gravitational microlensing using Python, focusing on the computational modeling and analysis of lensing events. Currently, my research is focused on gravitational waves, with particular interest in the characterization and analysis of glitches in interferometers. My work involves data analysis, numerical methods, and scientific computing applied to astrophysical signals.
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Physics+MSc+Student;Gravitational+Waves+%26+Data+Analysis" alt="Typing SVG">
