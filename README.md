@@ -4,7 +4,8 @@ I previously worked on gravitational microlensing using Python, focusing on the 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Physics+MSc+Student;Gravitational+Waves+%26+Data+Analysis" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Physics+MSc+Student;Gravitational+Waves+%26+Data+Analysis" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=300&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Physics+MSc+Student;Gravitational+Waves+%26+Data+Analysis" alt="Typing SVG">
   </a>
 </div>
 
