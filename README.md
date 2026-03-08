@@ -1,33 +1,20 @@
-<!-- <div>
-  <a href="https://github.com/physerikc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=physerikc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physerikc&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div> -->
+## Hi there. I'm Erick Sanches, Physics Master's Student
 
-<!-- <div align="center">
-  <a href="https://github.com/physerikc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=physerikc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physerikc&layout=compact&langs_count=6&theme=tokyonight"/>
+I previously worked on gravitational microlensing using Python, focusing on the computational modeling and analysis of lensing events. Currently, my research is focused on gravitational waves, with particular interest in the characterization and analysis of glitches in detector data. My work involves data analysis, numerical methods, and scientific computing applied to astrophysical signals.
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Physics+MSc+Student;Gravitational+Waves+%26+Data+Analysis" alt="Typing SVG">
   </a>
-</div> -->
+</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=physerikc&theme=tokyonight"/>
 </div>
 
-
-<!-- <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div> -->
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
 #
 
-<h3 align="left">My Stack:</h3>
+### My Stack:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -40,11 +27,12 @@
 
 <!-- <img align="right" alt="" height="190px" src="./src/study.gif"> -->
 
-<h3 align="left">Connect with me:</h3>
+### Contact:
 
-<div> 
- <a href="https://instagram.com/eriiikc7" target="_blank"><img src="https://img.shields.io/badge/-Instag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  <a href = "mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/eriiikc7" target="_blank"><img src="https://img.shields.io/badge/-Instag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5584991442071" target="_blank"><img src="https://img.shields.io/badge/-Wpp-2E7D32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
