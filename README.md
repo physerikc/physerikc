@@ -9,6 +9,8 @@ I previously worked on gravitational microlensing using Python, focusing on the 
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=physerikc&theme=tokyonight"/></div>
 
+[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=physerikc&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 
 ### My Stack:
