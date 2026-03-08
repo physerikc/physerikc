@@ -30,7 +30,7 @@ I previously worked on gravitational microlensing using Python, focusing on the 
 ### Contact:
 
 <div>
-  <a href = "mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-#7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eriiikc7" target="_blank"><img src="https://img.shields.io/badge/-Instag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5584991442071" target="_blank"><img src="https://img.shields.io/badge/-Wpp-2E7D32?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
