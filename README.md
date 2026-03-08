@@ -1,9 +1,20 @@
- <!-- <div>
+<!-- <div>
   <a href="https://github.com/physerikc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=physerikc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physerikc&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div> -->
 
+<!-- <div align="center">
+  <a href="https://github.com/physerikc">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=physerikc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physerikc&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div> -->
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=physerikc&theme=tokyonight"/>
+</div>
 
 
 <!-- <div align="center">
@@ -14,9 +25,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
-<p align="center">Atualmente, mestrando com uma trajetória de pesquisa focada em astrofísica. Na graduação, me dediquei ao estudo de microlentes gravitacionais e hoje meu trabalho se concentra em utilizar Python para analisar e classificar glitches em dados de ondas gravitacionais.
- 
 #
 
 <h3 align="left">My Stack:</h3>
@@ -34,8 +42,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:erick.sanches.123@ufrn.edu.br)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/eriiikc7/) -->
+<div> 
+ <a href="https://instagram.com/eriiikc7" target="_blank"><img src="https://img.shields.io/badge/-Instag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:erick.sanches.123@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 <div style="text-align: center;" align="center">
