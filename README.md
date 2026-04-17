@@ -23,6 +23,15 @@ I previously worked on gravitational microlensing using Python, focusing on the 
   </tr>
 </table>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" alt="C" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40" alt="HTML" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" alt="CSS" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40" alt="Js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" width="40" alt="Jupyter" />
+</div>
+
 
 ### Contact:
 
