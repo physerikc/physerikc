@@ -12,6 +12,16 @@ I previously worked on gravitational microlensing using Python, focusing on the 
 #
 
 ### My Stack:
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="30" alt="C" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" alt="HTML" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30" alt="CSS" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30" alt="JS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="30" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="30" alt="Jupyter" /></td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
