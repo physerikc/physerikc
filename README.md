@@ -12,7 +12,7 @@ I previously worked on gravitational microlensing using Python, focusing on the 
 #
 
 ### My Stack:
-<table>
+<table border="0">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="30" alt="C" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30" alt="HTML" /></td>
